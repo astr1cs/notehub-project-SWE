@@ -1,0 +1,3 @@
+Using Microsoft.Sql
+
+select * from Users;
